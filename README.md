@@ -17,6 +17,8 @@ A simple TCP Connect port scanner developed in Python 3. This application levera
 # Demo
 ![Screenshot_1](https://user-images.githubusercontent.com/93587331/209664754-8f2adaad-6377-4d6c-bd93-2c78bde053ac.png)
 # Sql injection scanner
+A simple SQL injection scanner developed in Python 3, the use of Python's Standard Librarys and framework to execute it.
+An SQLi attack is meant to send malicious SQL commands to the database server. and then, we will check whether a web page has SQL errors in it, this will be useful when checking for SQL injection attacks and finally, we will test it on HTML forms.
 
 # Requirements
     "requests"
